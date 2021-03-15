@@ -1,0 +1,14 @@
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactList.xml
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.vbprojAssemblyReference.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.frmContactList.resources
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.Resources.resources
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.vbproj.GenerateResource.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.vbproj.CoreCompileInputs.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.xml
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactsList.mdf
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 8\ContactList\ContactList\bin\Debug\ContactsList_log.ldf
